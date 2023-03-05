@@ -631,7 +631,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
+		background: #ffffffa8;
 		color: #39454b;
 		padding: 2em;
 	}
@@ -991,7 +991,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 390px;
+			height: 245px;
 		}
 
 		.image.left {
